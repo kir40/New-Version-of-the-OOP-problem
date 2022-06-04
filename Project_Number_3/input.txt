@@ -1,0 +1,116 @@
+Enter a number of product that Client_1 bought
+2
+Enter the name of product and quantity
+cheries
+20
+
+Enter the name of product and quantity
+apples
+1
+
+
+Enter a number of product that Client_2 bought
+1
+Enter the name of product and quantity
+bananas
+30
+
+
+Enter a number of product that Client_3 bought
+2
+Enter the name of product and quantity
+tomatoes
+40
+
+Enter the name of product and quantity
+cucumbers
+40
+
+
+Enter a number of product that Client_4 bought
+2
+Enter the name of product and quantity
+cabbage
+20
+
+Enter the name of product and quantity
+potatoes
+20,500
+
+
+Enter a number of product that Client_5 bought
+3
+Enter the name of product and quantity
+cucumbers
+30,300
+
+Enter the name of product and quantity
+tomatoes
+30,500
+
+Enter the name of product and quantity
+peppers
+2
+
+
+Enter a number of product that Client_6 bought
+2
+Enter the name of product and quantity
+peppers
+50
+
+Enter the name of product and quantity
+tomatoes
+60
+
+
+Enter a number of product that Client_7 bought
+2
+Enter the name of product and quantity
+cabbage
+60
+
+Enter the name of product and quantity
+cucumbers
+70
+
+
+Enter a number of product that Client_8 bought
+6
+Enter the name of product and quantity
+peppers
+10
+
+Enter the name of product and quantity
+cucumbers
+10
+
+Enter the name of product and quantity
+tomatoes
+10
+
+Enter the name of product and quantity
+cabbage
+10
+
+Enter the name of product and quantity
+potatoes
+10
+
+Enter the name of product and quantity
+bananas
+20
+
+
+Enter a number of product that Client_9 bought
+1
+Enter the name of product and quantity
+plums
+1
+
+
+Enter a number of product that Client_10 bought
+1
+Enter the name of product and quantity
+oranges
+2

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YFSKd4Hg+hycGlK4nR8K+5HdUw+vF3iQtu97PCx44FXAJn3ALHPw9/d0m7EJjDLQ9sS49RDO9SwM75WFVxA3Aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Userf5f6\\source\\Projects\\OOP\\Project_Number_3\\Project_Number_3\\Project_Number_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Userf5f6\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Userf5f6\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+Client_01:_John---20kg Cheries and 1kg apples
+Client_02:_Carl---30kg Bananas
+Client_03:_Ana---40kg Tomatoes and 40kg Cucumbers 
+Client_04:_Mike---20kg Cabbage and 20.500 Potatoes
+Client_05:_AJ---30.300kg Cucumbers,30.500 Tomatoes and 2kg Peppers
+
+Client_06: Enterprise_01: Shop_1---50kg Pepers and 60kg Tomatoes
+Client_07: Enterprise_02: Shop_2---60kg Cabbage and 70kg Cucumbers
+
+Client_08: Enterprise_03: Resturant 10kg Pepers ,10kg Cucumbers,10kg Tomatoes,10kg Cabbage,10kg Potatoes,20 kg Bananas
+
+Client_09: Retail_Customer_1---1kg Plums
+Client_10: Retail_Customer_2---2kg Oranges

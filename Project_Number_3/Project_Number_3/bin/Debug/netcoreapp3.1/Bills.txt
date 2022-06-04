@@ -1,0 +1,10 @@
+Client_01:_John---20kg Cheries and 1kg apples and the total price is 302лв.
+Client_02: _Carl---30kg Bananas the total price is 54лв.
+Client_03:_Ana---40kg Tomatoes and 40kg Cucumbers the total price is 92лв.
+Client_04:_Mike---20kg Cabbage and 20.500 Potatoes the total price is 30,25лв
+Client_05:_AJ---30.300kg Cucumbers,30.500 Tomatoes and 2kg Peppers the total price is 21,15лв.
+Client_06: Enterprise_01: Shop_1---50kg Pepers and 60kg Tomatoes the total price is148лв.
+Client_07: Enterprise_02: Shop_2---60kg Cabbage and 70kg Cucumbers the total price is 116лв.
+Client_08:Enterprise_03: Resturant 10kg Pepers ,10kg Cucumbers,10kg Tomatoes,10kg Cabbage,10kg Potatoes,20 kg Bananas the total price is 94лв.
+Client_09: Retail_Customer_1---1kg Plums the total price is 1лв.
+Client_10: Retail_Customer_2---2kg Oranges the total price is 10лв.
